@@ -1,12 +1,11 @@
 export default function Home() {
   return (
-    <div style={{ textAlign: 'center', marginTop: '3rem', fontFamily: 'sans-serif' }}>
-      <h1>Crave Theory Is Coming</h1>
-      <p style={{ fontSize: '1.2rem' }}>
-        Real food. Real gut health. Real results.
-      </p>
+    
+    
+                <h1 style={{ fontFamily: 'var(--font-logo)' }}>Crave Theory</h1>
+<p style={{ fontFamily: 'var(--font-tagline)' }}>Eat the Rainbow. Heal the Future.</p>
+<p style={{ fontFamily: 'var(--font-body)' }}>Join our waitlist to crave better.</p>
 
-      <p>This isn’t another trendy diet. It’s a revolution powered by your microbiome.</p>
 
       <form style={{ marginTop: '2rem' }}>
         <input
