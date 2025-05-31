@@ -27,7 +27,7 @@ export default function Home() {
           type="submit"
           style={{ padding: '0.5rem 1rem', marginLeft: '1rem' }}
         >
-          Join the Waitlist
+          Join the Waitlists
         </button>
       </form>
 
