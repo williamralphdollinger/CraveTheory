@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div style={{ padding: '2rem' }}><img
-  src="https://i.imgur.com/abc123.png" // update this to your actual filename
+  src="https://imgur.com/kCPP7HF" // update this to your actual filename
   alt="Crave Theory Logo"
   style={{
     width: '180px',
