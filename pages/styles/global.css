@@ -9,7 +9,7 @@ body {
 
 h1 {
   font-family: var(--font-logo, 'Montserrat', sans-serif);
-  color: #111;
+  color: blue;
 }
 
 p {
