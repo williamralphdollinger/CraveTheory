@@ -1,6 +1,16 @@
 export default function Home() {
   return (
-    <div style={{ padding: '2rem' }}>
+    <div style={{ padding: '2rem' }}><img
+  src="/logo.png" // update this to your actual filename
+  alt="Crave Theory Logo"
+  style={{
+    width: '180px',
+    height: 'auto',
+    display: 'block',
+    margin: '3rem auto 2rem',
+    padding: '1rem'
+  }}
+/>
       <h1 style={{ fontFamily: 'var(--font-logo)' }}>Crave Theory</h1>
       <p style={{ fontFamily: 'var(--font-tagline)' }}>Eat the Rainbow. Heal the Future.</p>
       <p style={{ fontFamily: 'var(--font-body)' }}>Join our waitlist to crave better.</p>
