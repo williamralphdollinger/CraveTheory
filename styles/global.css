@@ -1,0 +1,16 @@
+/* styles/globals.css */
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #fffdf5, #f0f4ec);
+  font-family: var(--font-body);
+  color: #111;
+}
+
+h1, h2, h3 {
+  font-family: var(--font-logo);
+}
+
+p, span, a {
+  font-family: var(--font-tagline);
+}
