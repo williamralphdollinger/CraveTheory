@@ -11,6 +11,16 @@ export default function Home() {
     padding: '1rem'
   }}
 />
+  <img
+  src="https://imgur.com/d61jEyD"
+  alt="Crave Theory Logo"
+  style={{
+    width: '180px',
+    height: 'auto',
+    display: 'block',
+    margin: '3rem auto 2rem'
+  }}
+/>
       <h1 style={{ fontFamily: 'var(--font-logo)' }}>Crave Theory</h1>
       <p style={{ fontFamily: 'var(--font-tagline)' }}>Eat the Rainbow. Heal the Future.</p>
       <p style={{ fontFamily: 'var(--font-body)' }}>Join our waitlist to crave better.</p>
