@@ -1,11 +1,9 @@
 export default function Home() {
   return (
-    
-    
-                <h1 style={{ fontFamily: 'var(--font-logo)' }}>Crave Theory</h1>
-<p style={{ fontFamily: 'var(--font-tagline)' }}>Eat the Rainbow. Heal the Future.</p>
-<p style={{ fontFamily: 'var(--font-body)' }}>Join our waitlist to crave better.</p>
-
+    <div style={{ padding: '2rem' }}>
+      <h1 style={{ fontFamily: 'var(--font-logo)' }}>Crave Theory</h1>
+      <p style={{ fontFamily: 'var(--font-tagline)' }}>Eat the Rainbow. Heal the Future.</p>
+      <p style={{ fontFamily: 'var(--font-body)' }}>Join our waitlist to crave better.</p>
 
       <form style={{ marginTop: '2rem' }}>
         <input
